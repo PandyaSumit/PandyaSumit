@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Pandya</h1>
-# 💫 About Me:
+<h1>💫 About Me:</h1><br>
 🌱 I’m currently doing Development & Competitive Programming.<br>💻 Skilled in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB.<br>🔥 Passionate about DSA and competitive programming 🏆, with 500+ problems solved on platforms like LeetCode and CodeChef.<br>🌟 Notable achievements include AIR 6 in AtCoder Heuristic Contest 037 🥇 and top 12,000 out of 5,10,000in Naukri Campus Young Turks 🎉.<br>📫 How to reach me pandyasumit01@gmail.com
 
 
