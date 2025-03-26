@@ -1,11 +1,11 @@
 # 💫 About Me:
 🚀 Passionate Software Developer & Competitive Programmer<br>
 💻 Experienced in Full-Stack Web Development with React.js, Node.js, Express.js, and MongoDB<br>
-⚡ Solved 500+ DSA problems on platforms like LeetCode, GeeksforGeeks, and CodeChef<br><br>
+⚡ Solved <b>500+ DSA problems</b> on platforms like LeetCode, GeeksforGeeks, and CodeChef<br><br>
 🏆 Achievements:
 
- &nbsp;&nbsp;&nbsp; &#8226; AIR 6 in AtCoder Heuristic Contest 037 🥇<br>
-  &nbsp;&nbsp;&nbsp; &#8226; Top 12,000 out of 510,000+ candidates in Naukri Campus Young Turks 🎉
+ &nbsp;&nbsp;&nbsp; &#8226; <b>AIR 6 in AtCoder Heuristic Contest 037 🥇</b><br>
+  &nbsp;&nbsp;&nbsp; &#8226; <b>Top 12,000 out of 510,000+ candidates in Naukri Campus Young Turks 🎉</b>
 
 📩 Reach me at: pandyasumit01@gmail.com
 
