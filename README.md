@@ -74,7 +74,7 @@ I'm a passionate **Software Developer** and **Competitive Programmer** who loves
 </div>
 
 <div align="center">
- [ <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandyaSumit&theme=tokyonight&hide_border=true"/>](https://github-readme-stats.vercel.app/api?username=PandyaSumit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+ [ <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandyaSumit&theme=tokyonight&hide_border=true"/>]
 </div>
 
 ## 🏅 Competitive Programming
