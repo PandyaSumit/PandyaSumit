@@ -74,7 +74,7 @@ I'm a passionate **Software Developer** and **Competitive Programmer** who loves
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandyaSumit&theme=tokyonight&hide_border=true"/>
+ [ <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandyaSumit&theme=tokyonight&hide_border=true"/>](https://github-readme-stats.vercel.app/api?username=PandyaSumit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 </div>
 
 ## 🏅 Competitive Programming
@@ -83,10 +83,10 @@ I'm a passionate **Software Developer** and **Competitive Programmer** who loves
   
 | Platform | Profile | Problems Solved |
 |----------|---------|----------------|
-| 🟡 **LeetCode** | [@PandyaSumit](https://leetcode.com/PandyaSumit) | 200+ |
+| 🟡 **LeetCode** | [@PandyaSumit](https://leetcode.com/PandyaSumit) | 250+ |
 | 🟢 **GeeksforGeeks** | [@PandyaSumit](https://auth.geeksforgeeks.org/user/PandyaSumit) | 150+ |
-| 🔵 **CodeChef** | [@PandyaSumit](https://www.codechef.com/users/PandyaSumit) | 100+ |
-| 🟣 **AtCoder** | [@PandyaSumit](https://atcoder.jp/users/PandyaSumit) | 50+ |
+| 🔵 **CodeChef** | [@PandyaSumit](https://www.codechef.com/users/PandyaSumit) | 300+ |
+| 🟣 **AtCoder** | [@PandyaSumit](https://atcoder.jp/users/PandyaSumit) | 100+ |
 
 </div>
 
