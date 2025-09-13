@@ -12,7 +12,7 @@ I'm a passionate **Software Developer** and **Competitive Programmer** who loves
 
 - 🔭 Currently working on full-stack web applications
 - 🌱 Learning advanced algorithms and system design
-- 💡 Solved **500+ DSA problems** across multiple platforms
+- 💡 Solved **700+ DSA problems** across multiple platforms
 - 🎯 Goal: Contributing to open-source projects and building impactful software
 - 📫 How to reach me: **pandyasumit01@gmail.com**
 
