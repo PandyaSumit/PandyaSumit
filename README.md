@@ -66,17 +66,6 @@ I'm a passionate **Software Developer** and **Competitive Programmer** who loves
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandyaSumit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandyaSumit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-
-<div align="center">
- [ <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandyaSumit&theme=tokyonight&hide_border=true"/>]
-</div>
-
 ## 🏅 Competitive Programming
 
 <div align="center">
